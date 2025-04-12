@@ -1,4 +1,14 @@
 {
-    "alternativa-1": "dado1",
-    "alternativa-2": "dado2"
+    "pergunta-1": "qual a capital do Brasil?",
+    "pergunta-2": "Quanto é 2 + 2 * 2 - 1?",
+    "pergunta-3": "Qual é a capital da França?",
+    "pergunta-4": "Quem pintou a Mona Lisa?",
+    "pergunta-5": "Em que ano o Brasil foi descoberto?",
+    "pergunta-6": "Qual é o maior oceano do mundo?",
+    "pergunta-7": "Quem escreveu 'Dom Casmurro'?",
+    "pergunta-8": "O que é a fotossíntese?",
+    "pergunta-9": "Em que continente está o Egito?",
+    "pergunta-10": "Qual é o símbolo químico do oxigênio?",
+    "pergunta-11": "Quantos continentes existem no mundo?",
+    "pergunta-12": "Quem foi o primeiro homem a pisar na Lua?"
 }
